@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "648114534580",
+    "project_id": "bms-app-ee4ae",
+    "storage_bucket": "bms-app-ee4ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648114534580:android:851860fe9f2f234340ffe1",
+        "android_client_info": {
+          "package_name": "com.example.bms.bms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "648114534580-gvbfgtl3vnbehvks0heg0ovejndg4fdp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAA7Rjiw3cmfKVwK0xydwv3UrrxaXqtJAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "648114534580-en5akkaqgp9i025vs4g7u28cbo08hmju.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
